@@ -223,12 +223,12 @@ img {
     margin-left: 1rem;
 }
 
-/* @container testemunhoCard (min-width: 42.187em) {
+@container testemunhoCard (min-width: 42.187em) {
     .testemunho_card {
         flex-direction: row;
         text-align: left;
     }
-} */
+}
 
 
 @media screen and (min-width: 46.25em) {
